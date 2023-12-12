@@ -12,7 +12,7 @@
 * Abra a pasta com o VsCode
 * Dentro dessa pasta, crie o ficheiro `index.html` com o seguinte código fonte HTML;
 
-![image](images/code2.PNG)
+![image](images/code3.PNG)
 
 
 O HTML é uma linguagem de marcação para construir páginas Web. OS ficheiros HTML possuem marcadores (*tags*), palavras entre parênteses angulares (`<` e `>`) que são comandos de formação da linguagem. 
@@ -41,7 +41,7 @@ Crie, na pasta `lab1`, a pasta `images`, e guarde dentro desta a imagem  `wordcl
 
 Uma vez editado, abra o ficheiro `index.html` com um Browser para ver se visualiza corretamente a sua página, tal e qual, como se apresenta em baixo.
 
-![](images/paginaFinal2.PNG)
+![](images/paginaFinal3.PNG)
 
 **Clique nas imagens em cima se quiser ver em maior &#129488;**
 
