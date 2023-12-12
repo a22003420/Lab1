@@ -43,7 +43,7 @@ Uma vez editado, abra o ficheiro `index.html` com um Browser para ver se visuali
 
 ![](images/paginaFinal.PNG)
 
-**Clique nas imagens para ver em maior**
+**Clique nas imagens em cima se quiser ver em maior**
 
 # Fim
 Parabéns por ter chegado ao fim! Esperamos que tenha gostado de ter feito a sua primeira página Web &#127760;!
