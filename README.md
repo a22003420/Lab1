@@ -35,13 +35,15 @@ Dentro de um marcador podem ser especificados pares de atributo = valor. Os atri
 * `href`= atributo que define o URL da hiperligação
 Nas próximas aulas falaremos mais em detalhe destes aspectos.
 
-Crie, na pasta `lab1`, a pasta `images`, e guarde dentro desta a imagem  `wordcloud.png` em baixo.
+Crie, na pasta `lab1`, a pasta `images`, e guarde dentro desta a imagem  `wordcloud.png` em baixo. 
 
 ![](images/wordcloud.png)
 
 Uma vez editado, abra o ficheiro `index.html` com um Browser para ver se visualiza corretamente a sua página, tal e qual, como se apresenta em baixo.
 
 ![](images/paginaFinal.PNG)
+
+`Clique nas imagens para ver em maior`
 
 # Fim
 Parabéns por ter chegado ao fim! Esperamos que tenha gostado de ter feito a sua primeira página Web &#127760;!
