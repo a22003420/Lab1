@@ -40,6 +40,7 @@ Crie, na pasta `lab1`, a pasta `images`, e guarde dentro desta a imagem  `wordcl
 ![](images/wordcloud.png)
 
 Uma vez editado, abra o ficheiro `index.html` com um Browser para ver se visualiza corretamente a sua página, tal e qual, como se apresenta em baixo.
+
 ![](images/paginaFinal.PNG)
 
 # Fim
