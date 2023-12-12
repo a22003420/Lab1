@@ -1,4 +1,4 @@
-**Escola do Comércio**
+**Escola do Comércio de Lisboa**
 
 # Programação Web - Aula 1: <br>*A minha primeira página Web*
 
