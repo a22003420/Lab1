@@ -45,5 +45,20 @@ Uma vez editado, abra o ficheiro `index.html` com um Browser para ver se visuali
 
 **Clique nas imagens em cima se quiser ver em maior &#129488;**
 
+## Criacao de repositorio GitHub
+* Crie a sua conta GitHub (https://github.com/). Pode usar as credenciais da Escola (e-mail).
+* Crie, na sua conta GitHub (https://github.com/), o repositório `lab1`. Vamos abri-lo agora..
+* Abra uma janela de comandos/terminal (vamos usar o terminal do VsCode).
+* Na pasta lab1 execute os seguintes comandos (# indica início de um comentário, que não deverá escrever):
+```bash
+> git init  # cria repositório git
+> git add *   #indica ao git para rastrear todos os ficheiros
+> git commit -m "Primeira pagina"   # guarda mudanças no git
+> git branch –M main # ficamos apenas com um branch (principal-main)
+> git remote add origin https://github.com/<username>/lab1 # Adiciona o endereco do repo do git
+> git push -u origin main # carrega e atualiza repo do GitHub
+```
+Verifique que os dados estão no GitHub.
+
 # Fim
 Parabéns por ter chegado ao fim! Esperamos que tenha gostado de ter feito a sua primeira página Web &#127760;!
