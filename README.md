@@ -69,10 +69,11 @@ Parabéns por ter chegado ao fim! Esperamos que tenha gostado de ter feito a sua
 
 # Part III
 
-* Faz uma página exclusiva com informação máximo que encotrares sobre REST API e Integração com Java. Podes colocar exemplos práticos de uso como fizemos no exemplo em cima (part II).
+* Faz uma página exclusiva com informação máxima que encontrares sobre REST API e Integração com Java (front-end | back-end). 
+Podes colocar exemplos práticos de uso como fizemos no exemplo em cima (part II).
 * Em resumo, será uma página orientada a pesquisa e exemplos práticos para melhor compreensão desta matéria.
 
-* Nota: Deve ser acedido através da página inicial, usando CSS (styles.css) com o nome: rest-api.html.
+* NOTA: Deve ser acedido através da página inicial, usando CSS (styles.css) com o nome: rest-api.html.
 
 # Bom trabalho &#127760;
 
